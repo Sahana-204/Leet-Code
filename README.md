@@ -1,0 +1,1 @@
+LeetCode is a renowned online platform that focuses on helping individuals enhance their coding skills and prepare for technical interviews. It provides a vast collection of problems, coding contests, and other resources that cater to various aspects of programming and problem-solving.
