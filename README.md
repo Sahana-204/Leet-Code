@@ -1,4 +1,5 @@
-# LeetCode is a renowned online platform that focuses on helping individuals enhance their coding skills and prepare for technical interviews. It provides a vast collection of problems, coding contests, and other resources that cater to various aspects of programming and problem-solving.
+# LeetCode
+LeetCode is a renowned online platform that focuses on helping individuals enhance their coding skills and prepare for technical interviews. It provides a vast collection of problems, coding contests, and other resources that cater to various aspects of programming and problem-solving.
 
 # Benefits of Using LeetCode:
 1. Interview Preparation: LeetCode is widely used by candidates to prepare for technical interviews at top tech companies.
